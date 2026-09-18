@@ -1,0 +1,10 @@
+﻿appointment_id,client_name,contact_email,appointment_datetime,service_name,reminder_sent
+APT-1001,Anna Kowalska,anna.kowalska@example.com,2026-09-19 12:16,Haircut & Styling,False
+APT-1002,Marek Nowak,marek.nowak@example.com,2026-09-19 12:46,Deep Tissue Massage,False
+APT-1003,Julia Wisniewska,julia.wisniewska@example.com,2026-09-19 13:16,Dental Check-up,False
+APT-1004,Tomasz Zielinski,tomasz.zielinski@example.com,2026-09-19 12:46,Consultation,True
+APT-1005,Katarzyna Wojcik,katarzyna.wojcik@example.com,2026-10-18 12:46,Skin Consultation,False
+APT-1006,Piotr Kaminski,piotr.kaminski@example.com,2026-09-16 12:46,Manicure,False
+APT-1007,Ewa Lewandowska,ewa.lewandowska@example.com,2026-09-18 14:46,Personal Training Session,False
+APT-1008,Grzegorz Kaczmarek,grzegorz.kaczmarek@example.com,2026-09-18 07:46,Math Tutoring,False
+APT-1009,Sample Client,sample.client@example.com,2026-09-19 16:20,Personal Consultation,True
